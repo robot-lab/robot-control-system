@@ -1,0 +1,6 @@
+[submodule "rcs-business-layer"]
+	path = rcs-business-layer
+	url = https://github.com/robot-lab/rcs-business-layer
+[submodule "rcs-control-unit"]
+	path = rcs-control-unit
+	url = https://github.com/robot-lab/rcs-control-unit
